@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charles
+- 👋 Hi, I’m charles
 - 👀 I’m interested in making money
 - 🌱 I’m currently learning CS50 
 - 💞️ I’m looking to collaborate on DIFFERENT PROJECTS
